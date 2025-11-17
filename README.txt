@@ -21,8 +21,9 @@ scoop install yt-dlp
 
 Enjoy!
 
-!Important Note! - if you're downloading a youtube video it's default encoding is webm, so you need an av1 decoder installed. Unless you choose the "convert to mp4" option
+!Important Note! - if you're downloading a youtube video it's default encoding is webm, so you need an av1 decoder installed. Unless you choose the "convert to mp4" option, and use the m4a format for tiktok videos, since that needs a HEVC decoder
 
 If you're not runing Windows or want more options. There is a website made by VishalKaleria on github (https://github.com/VishalKaleria)
 https://toolbrew.org/               <---- here's the link
+
 
