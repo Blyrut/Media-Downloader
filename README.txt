@@ -19,9 +19,10 @@ scoop install yt-dlp
 3) Wait until yt-dlp is installed and check if it works with a command (in cmd) like: yt-dlp --version
 
 
-
-
 Enjoy!
+
+!Important Note! - if you're downloading a youtube video it's default encoding is webm, so you need an av1 decoder installed. Unless you choose the "convert to mp4" option
 
 If you're not runing Windows or want more options. There is a website made by VishalKaleria on github (https://github.com/VishalKaleria)
 https://toolbrew.org/               <---- here's the link
+
