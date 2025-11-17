@@ -22,3 +22,6 @@ scoop install yt-dlp
 
 
 Enjoy!
+
+If you're not runing Windows or want more options. There is a website made by VishalKaleria on github (https://github.com/VishalKaleria)
+https://toolbrew.org/               <---- here's the link
